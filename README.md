@@ -1,6 +1,5 @@
 # Hi, I'm Abid 👋
 
-I'm a pragmatic full-stack developer who focuses on building functional, scalable, and production-ready web applications. I’ve worked across the stack with a strong command of JavaScript, Node.js, and modern frontend tooling.
 
 I don’t overengineer — I ship. I’m hands-on, always learning, and I improve systems with each iteration.
 
@@ -40,10 +39,7 @@ I don’t overengineer — I ship. I’m hands-on, always learning, and I improv
 
 ### 📬 Contact
 
-- Email: abid@example.com *(replace with real one)*
+- Email: abid.habib@outlook.com *(replace with real one)*
 - LinkedIn: [linkedin.com/in/abidhabib](https://www.linkedin.com/in/abid-h-b8056a242)
-- Telegram: [@your_handle](#) *(optional)*
-
+  
 ---
-
-> I don’t just code features. I understand them, build them, and improve them. Consistently.
