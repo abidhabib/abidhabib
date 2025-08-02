@@ -24,7 +24,7 @@ I don’t overengineer — I ship. I’m hands-on, always learning, and I improv
 
 ### 🛠️ What I’m Doing
 
-- Building feature-rich React + Node.js apps (crypto, dashboards, admin panels)
+- Building feature-rich React + Node.js apps + SQL Databases 
 - Writing REST APIs, integrating real-time features, securing auth flows
 - Exploring GitOps, CI/CD pipelines, and system automation via shell + webhooks
 ---
