@@ -28,8 +28,6 @@ I don’t overengineer — I ship. I’m hands-on, always learning, and I improv
 - Building feature-rich React + Node.js apps (crypto, dashboards, admin panels)
 - Writing REST APIs, integrating real-time features, securing auth flows
 - Exploring GitOps, CI/CD pipelines, and system automation via shell + webhooks
-- Experimenting with cybersecurity tools, browser automation, and ethical hacking
-
 ---
 
 ### 🧩 What I’m Improving
@@ -43,7 +41,7 @@ I don’t overengineer — I ship. I’m hands-on, always learning, and I improv
 ### 📬 Contact
 
 - Email: abid@example.com *(replace with real one)*
-- LinkedIn: [linkedin.com/in/abidhabib](https://linkedin.com/in/abidhabib)
+- LinkedIn: [linkedin.com/in/abidhabib](https://www.linkedin.com/in/abid-h-b8056a242)
 - Telegram: [@your_handle](#) *(optional)*
 
 ---
