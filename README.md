@@ -39,7 +39,7 @@ I don’t overengineer — I ship. I’m hands-on, always learning, and I improv
 
 ### 📬 Contact
 
-- Email: abid.habib@outlook.com *(replace with real one)*
+- Email: abid.habib@outlook.com
 - LinkedIn: [linkedin.com/in/abidhabib](https://www.linkedin.com/in/abid-h-b8056a242)
 - Visit : [https://abidhabib.pro](https://abidhabib.pro)
   
